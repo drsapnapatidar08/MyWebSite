@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="600" height="720" viewBox="0 0 600 720">
+  <rect width="600" height="720" fill="#f3e5dc" />
+  <circle cx="300" cy="230" r="110" fill="#e0c8bb" />
+  <rect x="170" y="360" width="260" height="260" rx="40" fill="#fff" />
+  <path d="M210 390h180v40H210z" fill="#f2d6c7" />
+  <text x="300" y="670" text-anchor="middle" font-family="Manrope, Arial" font-size="22" fill="#8a6b5d">Replace with doctor photo</text>
+</svg>
